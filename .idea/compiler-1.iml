@@ -16,5 +16,6 @@
         <SOURCES />
       </library>
     </orderEntry>
+    <orderEntry type="library" name="antlr-4.10.1-complete1" level="project" />
   </component>
 </module>
